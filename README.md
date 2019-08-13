@@ -19,4 +19,4 @@ Here is how you make [a link](https://www.wikipedia.org/).
 
 ![This is an image](Vidic 15.jpg).
 
-nano README.md
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
