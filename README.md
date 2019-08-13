@@ -19,4 +19,4 @@ Here is how you make [a link](https://www.wikipedia.org/).
 
 ![This is an image](/Vidic 15.jpg).
 
-![Image of Yaktocat](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
